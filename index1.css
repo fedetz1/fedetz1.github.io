@@ -1,0 +1,18 @@
+body{
+    background-image: url(fondo-textura-papel-arrugado-negro-oscuro-cerca_99266-411.webp);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h2{
+    font-family: 'Permanent Marker', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 4px;
+    background-color: rgba(79, 79, 85, 0.301);
+  color: white;
+}
+h1{
+    font-family: 'Audiowide', Courier, monospace;
+    letter-spacing: 3px;
+    background-color: rgba(79, 79, 85, 0.301);
+    color: white;
+}
